@@ -7,7 +7,7 @@
     border-radius: 0px;
     transition: 1s;
     cursor: pointer;
-    box-shadow: sienna; 0 20px 20px
+    box-shadow: sienna; 0px 20px 20px
 }
 .b1:hover{
     background-color: rgb(255, 0, 255);    
